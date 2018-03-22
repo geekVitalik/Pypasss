@@ -1,0 +1,1 @@
+This program generates random password using a-Z symbols, digits and special symbols.
